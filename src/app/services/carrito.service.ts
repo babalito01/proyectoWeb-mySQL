@@ -55,8 +55,8 @@ export class CarritoService {
     xml += `  <Factura>\n`;
     xml += `    <Encabezado>\n`;
     xml += `      <Emisor>\n`;
-    xml += `        <Nombre>CETRIONIC digital</Nombre>\n`;
-    xml += `        <RFC>21300652</RFC>\n`;
+    xml += `        <Nombre>Nombre de la empresa</Nombre>\n`;
+    xml += `        <RFC>12345678</RFC>\n`;
     xml += `        <Domicilio>Ceti Colomos #12</Domicilio>\n`;
     xml += `      </Emisor>\n`;
     xml += `      <Receptor>\n`;
